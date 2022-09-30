@@ -1,10 +1,17 @@
-# Hacktoberfest22-DSA-CP-Code-Dump ![](https://img.shields.io/github/issues/legion2003/Master-DSA)
+# Hacktoberfest22⭐ Master Algorithms in the Best Way  ![](https://img.shields.io/github/issues/legion2003/Master-DSA)
 
 ![](banner.png)
 
 ## About
 
-This Repository's sole purpose is to help beginners and as well as experienced people contribute to Open Source Programming. The repository consists of a large number of Data Structures and Algorithms implemented in C++ and JAVA. The repository also contains some of the competitive program solutions particularly Codeforces contest solutions. As a part of Hacktoberfest Code of Conduct no spamming or irrelevant PRs will be accepted.
+The sole purpose of this repository/project is to help people master algorithms which increases your optimization and time reduction skills which helps everywhere.
+The repository also contains some of the competitive program solutions particularly Codeforces contest solutions. As a part of Hacktoberfest Code of Conduct no spamming or irrelevant PRs will be accepted.
+
+## How this benefits everyone✨
+
+For Contributors - You contibute code for the algorithm/topic asked in the issue with proper comments wherever required. Your code will reviewed by me and merged only if it is the best in terms of Time and Space complexity else you will recieve an improvement feedback from me which will help you improve.
+
+For Viewers - You get to see a curated best code for the algorithems and learn from it,  which is the fastest way to learn and helps you retain it.
 
 ## How to Contribute
 
