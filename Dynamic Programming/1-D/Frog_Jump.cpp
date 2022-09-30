@@ -75,7 +75,7 @@ int frogJump(int n, vi heights){
         prev2 = prev1;
         prev1 = curi;
     }
-    return prev;
+    return prev1;
 }
 
 // Using Tabulation and Space optimization
